@@ -1,0 +1,22 @@
+[
+    {
+    "id": "p001",
+    "title": "قصيدة عن الحياة",
+    "author_id": "a001",
+    "date_written": "1980-05-10",
+    "uploaded_by": "Omar Albreiki",
+    "relation": "Grandson",
+    "upload_date": "2025-08-10",
+    "creation_date_estimate": "1980",
+    "topic": "self reflection",
+    "chain_of_narration": "From father, who heard it from the author directly",
+    "text": "هنا نص القصيدة...",
+    "audio": "poem001.mp3",
+    "image": "poem001.jpg",
+    "categories": ["self reflection", "life"],
+    "verified": false,
+    "verifier": "",
+    "verification_date": "",
+    "verification_note": ""
+    }
+]
